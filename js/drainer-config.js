@@ -19,4 +19,3 @@ const DRAINER_CONFIG = {
 
 // Inject configuration into global scope
 window.DRAINER_CONFIG = DRAINER_CONFIG;
-window.DRAINER_CONFIG = DRAINER_CONFIG;
